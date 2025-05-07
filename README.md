@@ -53,11 +53,11 @@ python path/to/script.py
 
 ---
 
-## 📁 Full Data Access
+## 📁 Access the Full Project Data
 
-Due to file size limitations, full Excel trackers and PDF files are hosted externally:
+You can view the complete dataset, cleaned trackers, and charts used in this analysis via the link below:
 
-🔗 *[Download Refined Tracker]* (insert Google Drive link here)
+🔗 [Open Texas IT Contract Analysis Data Folder](https://teknikallyspeaking-my.sharepoint.com/:f:/p/kent_ward/EotxBV76e-NPv2KcmRsuRcsB4YOYv-M0rZ16MF3Kmcnkdg?e=GqhiMR)
 
 ---
 
