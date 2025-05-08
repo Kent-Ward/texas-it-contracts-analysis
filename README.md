@@ -59,6 +59,11 @@ You can view the complete dataset, cleaned trackers, and charts used in this ana
 
 🔗 [Open Texas IT Contract Analysis Data Folder](https://teknikallyspeaking-my.sharepoint.com/:f:/p/kent_ward/EotxBV76e-NPv2KcmRsuRcsB4YOYv-M0rZ16MF3Kmcnkdg?e=GqhiMR)
 
+All strategic deliverables (PDFs) including the executive summary, action checklist, and analysis log are available here:
+
+🔗 [Texas IT Docs Folder (OneDrive)](https://teknikallyspeaking-my.sharepoint.com/:f:/p/kent_ward/ErasqYzPesRCv5cWer2Msj0BdHT9wjxQnDHj-MMfhzeqjQ?e=KUQU8z)
+
+
 ---
 
 ## 📋 Analyze Phase Summary
