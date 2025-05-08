@@ -64,6 +64,8 @@ All strategic deliverables (PDFs) including the executive summary, action checkl
 🔗 [Texas IT Docs Folder (OneDrive)](https://teknikallyspeaking-my.sharepoint.com/:f:/p/kent_ward/ErasqYzPesRCv5cWer2Msj0BdHT9wjxQnDHj-MMfhzeqjQ?e=KUQU8z)
 
 
+📊 [Download Stakeholder Slide Deck (PPTX)]([https://onedrive-link-here](https://teknikallyspeaking-my.sharepoint.com/:p:/p/kent_ward/EfxvmJQ3WhFBrKtWI67ei2cBxArlPLUDxtKsvi2qreNXsg?e=Ux3yE1))
+
 ---
 
 ## 📋 Analyze Phase Summary
