@@ -61,7 +61,7 @@ You can view the complete dataset, cleaned trackers, and charts used in this ana
 
 All strategic deliverables (PDFs) including the executive summary, action checklist, and analysis log are available here:
 
-🔗 [Texas IT Docs Folder (OneDrive)](https://teknikallyspeaking-my.sharepoint.com/:f:/p/kent_ward/ErasqYzPesRCv5cWer2Msj0BdHT9wjxQnDHj-MMfhzeqjQ?e=KUQU8z)
+🔗 [Texas IT Docs Folder (OneDrive)](https://teknikallyspeaking-my.sharepoint.com/:f:/p/kent_ward/ErasqYzPesRCv5cWer2Msj0BfZACOdMd5sW1YmAhvQK-VA)
 
 
 📊 [Download Stakeholder Slide Deck (PPTX)](https://teknikallyspeaking-my.sharepoint.com/:p:/p/kent_ward/EfxvmJQ3WhFBrKtWI67ei2cBxArlPLUDxtKsvi2qreNXsg?e=Ux3yE1)
