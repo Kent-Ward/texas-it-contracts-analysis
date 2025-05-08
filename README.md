@@ -1,8 +1,6 @@
 
 # 🧠 Texas IT Contract Awards Analysis
 
-# 🧠 Texas IT Contract Awards Analysis
-
 This project analyzes two years of IT contract awards across Texas state agencies using public data from Texas SmartBuy and DIR Vendor Awards. The goal is to identify trends, top vendors, most active agencies, and strategic bidding opportunities for a tech company seeking contracts in:
 
 - IT Staffing
