@@ -47,7 +47,7 @@ You can run scripts by activating your environment:
 
 ```bash
 cd TS_Project
-.env\Scriptsctivate
+.venv\Scripts\activate
 python path/to/script.py
 ```
 
