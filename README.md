@@ -1,5 +1,5 @@
 
-# 🧠 Texas IT Contract Awards Analysis
+# Texas IT Contract Awards Analysis
 
 This project analyzes two years of IT contract awards across Texas state agencies using public data from Texas SmartBuy and DIR Vendor Awards. The goal is to identify trends, top vendors, most active agencies, and strategic bidding opportunities for a tech company seeking contracts in:
 
@@ -11,7 +11,7 @@ This project analyzes two years of IT contract awards across Texas state agencie
 
 ---
 
-## 📂 Repo Structure
+## Repo Structure
 
 ```
 TS_Project/
@@ -26,7 +26,7 @@ TS_Project/
 
 ---
 
-## 📊 What You'll Learn
+## What You'll Learn
 
 - Which agencies award the most IT contracts
 - Who the top vendors are
@@ -35,7 +35,7 @@ TS_Project/
 
 ---
 
-## 🧪 How to Run the Analysis (Python)
+## How to Run the Analysis (Python)
 
 This project was built and run using a Python virtual environment (`venv`) with the following tools:
 
@@ -53,30 +53,26 @@ python path/to/script.py
 
 ---
 
-## 📁 Access the Full Project Data
+## Access the Full Project Data
 
 You can view the complete dataset, cleaned trackers, and charts used in this analysis via the link below:
 
-🔗 [Open Texas IT Contract Analysis Data Folder](https://teknikallyspeaking-my.sharepoint.com/:f:/p/kent_ward/EotxBV76e-NPv2KcmRsuRcsB4YOYv-M0rZ16MF3Kmcnkdg?e=GqhiMR)
+[Open Texas IT Contract Analysis Data Folder](https://teknikallyspeaking-my.sharepoint.com/:f:/p/kent_ward/EotxBV76e-NPv2KcmRsuRcsB4YOYv-M0rZ16MF3Kmcnkdg?e=GqhiMR)
 
 All strategic deliverables (PDFs) including the executive summary, action checklist, and analysis log are available here:
 
-🔗 [Texas IT Docs Folder (OneDrive)](https://teknikallyspeaking-my.sharepoint.com/:f:/p/kent_ward/ErasqYzPesRCv5cWer2Msj0BfZACOdMd5sW1YmAhvQK-VA)
+[Texas IT Docs Folder (OneDrive)](https://teknikallyspeaking-my.sharepoint.com/:f:/p/kent_ward/ErasqYzPesRCv5cWer2Msj0BfZACOdMd5sW1YmAhvQK-VA)
 
 
-📊 [Download Stakeholder Slide Deck (PPTX)](https://teknikallyspeaking-my.sharepoint.com/:p:/p/kent_ward/EfxvmJQ3WhFBrKtWI67ei2cBxArlPLUDxtKsvi2qreNXsg?e=Ux3yE1)
+[Download Stakeholder Slide Deck (PPTX)](https://teknikallyspeaking-my.sharepoint.com/:p:/p/kent_ward/EfxvmJQ3WhFBrKtWI67ei2cBxArlPLUDxtKsvi2qreNXsg?e=Ux3yE1)
 
 ---
 
-## 📋 Analyze Phase Summary
+## Analyze Phase Summary
 
 For a detailed breakdown of all steps completed in the analysis phase, see:
 
-👉 [`analysis_checklist.md`](data/analysis/analysis_checklist.md)
+[`analysis_checklist.md`](data/analysis/analysis_checklist.md)
 
 ---
 
-## 🛠️ Author
-
-**Kent Ward**  
-Built as part of a strategic initiative to help position a tech company for government IT contracting opportunities.
